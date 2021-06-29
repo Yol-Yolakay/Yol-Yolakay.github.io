@@ -50,7 +50,7 @@ header .naviagtsion{
     position: relative;
 }
 header .naviagtsion a{
-    color: yellowgreen;
+    color: white;
     font-size: 20px;
     font-weight:700 ;
     text-decoration: none;
@@ -130,7 +130,7 @@ section{
 
 .bn{
     
-    color: yellowgreen;
+    color: white;
     font-size: 17px;
     font-weight: 600;
     display: inline-block;
@@ -145,7 +145,7 @@ section{
 }
 .bn:hover{
     background: yellowgreen;
-    color: black;
+    color: white;
 }
 .content h2{
    
